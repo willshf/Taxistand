@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Taxistand()
+comment1.params=pTaxi
+comment1.target=void\ hintenAnstellen(Taxi)
+comment2.params=pTaxi
+comment2.target=void\ hintenAnstellenadvanced(Taxi)
+comment3.params=
+comment3.target=void\ fahrgastAufnehmen()
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=fahrername
+comment0.target=Taxi(java.lang.String)
+comment0.text=\r\n\ Konstruiert\ ein\ Taxi\ mti\ einem\ bestimmten\ Fahrer.\r\n
+comment1.params=
+comment1.target=java.lang.String\ gibFahrer()
+comment1.text=\r\n\ Fahrername\ abfragen\r\n
+comment2.params=
+comment2.target=void\ besetzen()
+comment2.text=\r\n\ Das\ Taxi\ ist\ besetzt.\ \r\n
+comment3.params=
+comment3.target=void\ leeren()
+comment3.text=\r\n\ Das\ Taxi\ ist\ wieder\ verfuegbar.\r\n
+comment4.params=
+comment4.target=boolean\ istBesetzt()
+comment4.text=\r\n\ Fragt\ ab,\ ob\ das\ Taxi\ besetzt\ ist.\r\n
+numComments=5
